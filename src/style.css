@@ -1,0 +1,171 @@
+.top {
+  position: absolute;
+  width: 317px;
+  height: 317px;
+  left: 116px;
+  top: 44px;
+  background: url(img.png);
+  border-radius: 10px 10px 0px 0px;
+}
+.container {
+  position: absolute;
+  width: 550px;
+  height: 868px;
+  left: 65px;
+  top: 53px;
+  background: #23252C;
+}
+.mid {
+  position: absolute;
+  width: 317px;
+  height: 399px;
+  left: 116px;
+  top: 361px;
+  background: #1A1B21;
+}
+.bottom {
+  position: absolute;
+  width: 317px;
+  height: 64px;
+  left: 116px;
+  top: 760px;
+  background: #161619;
+  border-radius: 0px 0px 10px 10px;
+}
+.mid-name {
+  height: 5.81px;
+  left: 186px;
+  top: 382px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-top: 12px;
+
+}
+.pos {
+  left: 161px;
+  top: 47px;
+  height: 2px;
+  font-family: 'Inter';
+  font-style: normal;
+  text-align: center;
+  color: #F3BF99;
+  font-weight: 400;
+  font-size: 12.8px;
+}
+.email-text {
+  top: 47px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  text-align: center;
+  color: #F5F5F5;
+}
+.email-btn {
+  width: 115px;
+  height: 34px;
+  left: 151px;
+  top: 468px;
+  margin-left: 35px;
+  background: #FFFFFF;
+  border: 1px solid #D1D5DB;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+  
+}
+.linkdn-btn {
+  width: 115px;
+  height: 34px;
+  left: 151px;
+  top: 468px;
+  margin-left: 15px;
+  background: #5093E2;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+}
+.about {
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 250%;
+  height: 21px;
+  margin-left: 35px;
+  color: #F5F5F5;
+}
+.about-text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.24px;
+  line-height: 150%;
+  margin-left: 35px;
+  color: #DCDCDC;
+  height: 81px;
+  
+}
+.interest {
+  height: 21px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 250%;
+  margin-left: 35px;
+  color: #F5F5F5;
+}
+.tw {    
+margin-left: 73px;
+margin-top: 19px;
+left: 34.36%;
+right: 61.09%;
+top: 89.75%;
+bottom: 7.37%;
+
+}
+.fb {
+  padding-left: 24px;
+  margin-top: 19px;
+  left: 34.36%;
+  right: 61.09%;
+  top: 89.75%;
+  bottom: 7.37%;
+  
+}
+
+.git {
+  padding-left: 24px;
+  margin-top: 19px;
+  left: 34.36%;
+  right: 61.09%;
+  top: 89.75%;
+  bottom: 7.37%;
+  
+  
+}
+
+.ig {
+  padding-left: 24px;
+  margin-top: 19px;
+  left: 34.36%;
+  right: 61.09%;
+  top: 89.75%;
+  bottom: 7.37%;
+}
