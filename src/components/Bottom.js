@@ -6,7 +6,7 @@ import React from "react"
             <img src="../icon/twitter.png" className = "tw"/>
             <img src="../icon/fb.png" className = "fb"/>
             <img src="../icon/git.png" className = "git"/>
-            <img src="../icon/ig.png" className = "ig"/>
+            <img src="../icon/ig.png" className = "ig" />
          
          </div>
      )
