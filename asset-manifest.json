@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/asimnipty/digicard.git/static/css/main.f12249c5.css",
-    "main.js": "/asimnipty/digicard.git/static/js/main.b5b5c78a.js",
-    "static/media/img.png": "/asimnipty/digicard.git/static/media/img.64e8fe1e2e7aa19b2f62.png",
-    "index.html": "/asimnipty/digicard.git/index.html",
-    "main.f12249c5.css.map": "/asimnipty/digicard.git/static/css/main.f12249c5.css.map",
-    "main.b5b5c78a.js.map": "/asimnipty/digicard.git/static/js/main.b5b5c78a.js.map"
+    "main.css": "/digicard/static/css/main.19003554.css",
+    "main.js": "/digicard/static/js/main.b5b5c78a.js",
+    "static/media/img.png": "/digicard/static/media/img.64e8fe1e2e7aa19b2f62.png",
+    "index.html": "/digicard/index.html",
+    "main.19003554.css.map": "/digicard/static/css/main.19003554.css.map",
+    "main.b5b5c78a.js.map": "/digicard/static/js/main.b5b5c78a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f12249c5.css",
+    "static/css/main.19003554.css",
     "static/js/main.b5b5c78a.js"
   ]
 }
