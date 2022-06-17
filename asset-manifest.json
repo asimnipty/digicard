@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/asimnipty/digicard/static/css/main.cc436331.css",
-    "main.js": "/asimnipty/digicard/static/js/main.b5b5c78a.js",
-    "static/media/img.png": "/asimnipty/digicard/static/media/img.64e8fe1e2e7aa19b2f62.png",
-    "index.html": "/asimnipty/digicard/index.html",
-    "main.cc436331.css.map": "/asimnipty/digicard/static/css/main.cc436331.css.map",
-    "main.b5b5c78a.js.map": "/asimnipty/digicard/static/js/main.b5b5c78a.js.map"
+    "main.css": "/asimnipty/digicard.git/static/css/main.f12249c5.css",
+    "main.js": "/asimnipty/digicard.git/static/js/main.b5b5c78a.js",
+    "static/media/img.png": "/asimnipty/digicard.git/static/media/img.64e8fe1e2e7aa19b2f62.png",
+    "index.html": "/asimnipty/digicard.git/index.html",
+    "main.f12249c5.css.map": "/asimnipty/digicard.git/static/css/main.f12249c5.css.map",
+    "main.b5b5c78a.js.map": "/asimnipty/digicard.git/static/js/main.b5b5c78a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc436331.css",
+    "static/css/main.f12249c5.css",
     "static/js/main.b5b5c78a.js"
   ]
 }
